@@ -15,7 +15,7 @@ import AppLayout from "./ui/AppLayout";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { Toaster } from "react-hot-toast";
-import Checkin from "./ui/CheckIn";
+import Checkin from "./ui/Checkin";
 import ProtectedRoutes from "./ui/ProtectedRoutes";
 import { DarkModeProvider } from "./context/DarkModeContext";
 
